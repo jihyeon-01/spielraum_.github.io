@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;   
+    text-decoration: none;
+}
+body {
+    font-family: 'Gugi', cursive;
+}
+
+header {
+    background: #ecc0c0;
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+    font-size: 22pt;
+}
+
+.container{
+    display: flex;
+    height: 500px;
+}
+
+.item{
+    width: 50%;
+    padding-left: 150px;
+    padding-top: 40px;
+}
+
+img{
+    width: 250px;
+    height: 500px;
+}
+
+hr{
+    margin-top: 220px;
+    color: #ffdbdb;
+}
+
+aside{
+    margin-top: 15px;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    font-size: 10pt;
+}
+
+.you{
+    margin-top: 15px;
+}
+
+.you2{
+    margin-top: 30px;
+    font-size: 50pt;
+}
+
+.ya{
+    border: 5px solid #ffdbdb;
+    width: 10px;
+    height: 10px;
+}

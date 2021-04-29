@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;   
+    text-decoration: none;
+}
+body {
+    font-family: 'Gugi', cursive;
+}
+
+header {
+    background: #ecc0c0;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+    
+nav {
+    background: #ecc0c0;
+    padding: 30px;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 22pt;
+}
+
+.a1{
+    padding: 0 85px 0 85px;
+    color:white;
+}
+
+.container{
+    display: flex;
+    height: 500px;
+
+}
+
+.item{
+    width: 50%;
+}
+
+
+aside{
+    padding-top: 15px;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    font-size: 10pt;
+}
+
+hr{
+    margin-top: 20px;
+    color: #ffdbdb;
+}
+
+article{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+img{
+    margin: 10px;
+    border: 5px solid #ffdbdb;
+    width: 550px;
+    height: 400px;
+}
+
